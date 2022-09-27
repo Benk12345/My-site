@@ -1,0 +1,107 @@
+.top_container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+.heading {
+  margin: 0;
+  font-family: 'Aboreto', cursive;
+  font-size: 50px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 30px;
+  top: 40px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+}
+
+.profile {}
+
+.skills {}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+/* .pro{
+  text-decoration: underline;
+} */
+
+.cc {
+  width: 25%;
+  border-radius: 180px;
+  float: left;
+  margin-right: 8px;
+}
+
+.jg {
+  width: 25%;
+  /* height: 200px;
+  width: 300px; */
+  border-radius: 180px;
+  float: right;
+  margin-right: 160px;
+}
+
+/* .intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+} */
+
+.contact-me{
+  background-color: #B7C4CF;
+  padding: 16px;
+}
+.footer-link{
+  margin-right: 5px;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 4px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:20px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
